@@ -14,7 +14,7 @@ import (
 )
 
 const (
-	WAPIVersion    = "1.7.1"
+	WAPIVersion    = "2.3"
 	defaultBaseURL = "https://localhost/"
 )
 
